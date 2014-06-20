@@ -1,0 +1,52 @@
+PixelROM includes many features and modifications which extend the capabilities of Android.  With each update to Android, Pixel features may change or be altered to work with the latest version.
+
+Feature list:
+
+QuickSettings
+- Flip Tiles
+- Vibrate on Tile Touch
+- Smart Pulldown
+
+Recent Panel
+- Recents RamBar
+- Slim Recents
+
+NavBar
+- Dimensions
+- Other CM NavBar Settings
+
+Lockscreen
+- Notification on Lockscreen (Lockscreen Notifications/PEEK)
+- Battery Percent around lock circle
+
+Notification Drawer
+- Notification Reminder
+
+System
+- AppSidebar
+- Gesture Anywhere
+- SlimPIE
+- Identicons
+- HALO Hover
+- DarkUI (TRDS)
+
+Developer Preferences
+- Disable FC Notifications
+
+Display
+- Animation Control
+- Smart Wake Cover Support
+- Screen Recorder
+
+Sound
+- Volume Panel Timeout
+
+Storage Info
+- Partition Information
+
+Advanced
+- Wakelock Blocker
+- Mediascanner on Boot
+
+// Bugs
+- FC on DarkUI Settings

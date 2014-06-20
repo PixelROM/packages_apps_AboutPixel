@@ -1,0 +1,64 @@
+Android 4.4.3
+
+PixelROM is built from the ground up with the idea of maximum stability and performance for your device in mind.
+
+Originally based off of CyanogenMod code base, new features and bug fixes are introduced with each build.  See the CHANGELOG for more information.
+
+View the source code at: http://github.com/PixelROM
+
+----------
+
+Developed by:
+
+1. Arnav Gosain
+(github.com/nolinuxnoparty)
+
+2. Aniruddh Chandratre
+(github.com/C-Aniruddh)
+
+----------
+Maintained by : 
+
+1. Silesh K Nair
+(github.com/sileshn)
+
+2. Pio Masaki
+(github.com/pio-masaki)
+
+3. Madina
+(github.com/mgbotoe)
+
+4. Mustanir
+(github.com/icoolguy1995)
+
+5. Harshit Raghuvanshi
+(github.com/rharshit)
+
+----------
+Devices currently supported:
+
+Samsung
+- n5110
+- t0lteatt
+- l900
+- jflte
+- hlte
+
+Asus
+- flo
+
+LG
+- hammerhead
+- mako
+- d802
+- vs980
+PS- G2 builds are based on KK Firmware.
+
+Sony
+- yuga
+- nicki
+- taoshan
+- amami
+
+Motorola
+- falcon

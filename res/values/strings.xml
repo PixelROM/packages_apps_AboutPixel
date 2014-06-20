@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 Crossbones Software
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">AboutPixel</string>
+
+    <string name="about_tab_title">About</string>
+    <string name="features_tab_title">Features</string>
+    <string name="changelog_tab_title">Changelog</string>
+    <string name="contact_tab_title">Contact</string>
+    <string name="donate_tab_title">Donate</string>
+
+    <string name="about_title">Welcome to PixelROM</string>
+
+    <string name="features_title">Pixel Features</string>
+
+    <string name="changelog_title">CHANGELOG:</string>
+    <string name="changelog_version_text">Current Version:</string>
+
+    <string name="contact_title">Contacting Pixel Developers:</string>
+    <string name="contact_text">http://pixelrom.github.io\naniruddh.chandratre@gmail.com\nGoogle Plus: https://plus.google.com/communities/105082532082543680180\nPlease prefer google plus community to contact us.</string>
+
+    <string name="donate_title">Donate to PixelROM</string>
+    <string name="donate_summary">Support PixelROM by donating through PayPal.\n\mDonations go towards the purchase of new devices, hardware, books, and anythine else related to the development of PixelROM.\n\nWe appreciate your support!</string>
+    <string name="donate_url">http://goo.gl/wAokct</string>
+
+    <string name="donate_button_text">Donate via PayPal</string>
+    <string name="finish_button_text">Finish</string>
+    <string name="back_button_text">Back</string>
+    <string name="next_button_text">Next</string>
+
+    <string name="menu_exit">Exit</string>
+
+</resources>
